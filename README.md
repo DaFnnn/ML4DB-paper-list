@@ -435,20 +435,15 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 
 ## Query Optimization
 * Learned Query Optimizer: What is New and What is Next (SIGMOD 2024)
-* GLO: Towards Generalized Learned Query Optimization (ICDE 2024)
 * Robust Query Optimization in the Era of Machine Learning: State-of-the-Art and Future Directions (ICDE 2024)
-* Presto’s History-based Query Optimizer (VLDB 2024)
 * Spatial Query Optimization With Learning (VLDB 2024)
 * DBG-PT: A Large Language Model Assisted Query Performance Regression Debugger (VLDB 2024)
+* Is Your Learned ery Optimizer Behaving As You Expect? A Machine Learning Perspective (VLDB 2024)
+* Still Asking: How Good Are Query Optimizers, Really? (VLDB 2025)
 * How Good are Learned Cost Models, Really? Insights from Query Optimization Tasks (SIGMOD 2025) [GitHub Link](https://github.com/DataManagementLab/lcm-eval)
-* SERAG: Self-Evolving RAG System for Query Optimization (arXiv 2025)
-* Logical and Physical Optimizations for SQL Query Execution over Large Language Models (SIGMOD 2025)
-* SEFRQO: A Self-Evolving Fine-Tuned RAG-Based Query Optimizer (arXiv 2025)
 * JOB-Complex: A Challenging Benchmark for Traditional&Learned Query Optimization (arXiv 2025)
-* LLM4Hint: Leveraging Large Language Models for Hint Recommendation in Offline Query Optimization (arXiv 2025)
 * Graph Transformers for Query Plan Representation: Potentials and Challenges (VLDB 2026)
-* Learned Query Optimizer in Alibaba MaxCompute: Challenges, Analysis, and Solutions (arXiv 2026)
-* Divo: Learning a Stable and Effective Query Optimizer with a Diverse Workload (SIGMOD 2026)
+* Learned Query Optimizer in Alibaba MaxCompute: Challenges, Analysis, and Solutions (SIGMOD Companion 2026)
 
 ### Query Rewrite
 * Sia: Optimizing Queries using Learned Predicates (SIGMOD 2021)
@@ -654,6 +649,12 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
   * PAR2QO: Parametric Penalty-Aware Robust Query Optimization (VLDB 2024)
   * APQO: An Adaptive Framework for Parametric Query Optimization (SIGMOD 2025)
   * ractical Parameterized Query Optimization via Efficient Plan Reuse and List-wise Ranking (SIGMOD 2026)
+### Plan Representation
+* QueryFormer: A Tree Transformer Model for Query Plan Representation (VLDB 2022)
+* A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies (VLDB 2023)
+* Graph Transformers for !ery Plan Representation: Potentials and Challenges (VLDB 2025)
+* TATA: An Efficient Framework for Task Transfer in Query Plan Representation (VLDB 2026)
+* Succinct Structure Representations for Efficient Query Optimization (SIGMOD 2026)
 ### Query Plan
 * Plan Selection Based on Query Clustering （VLDB 2002)
 * Cost-Based Query Optimization via AI Planning (AAAI 2014)
@@ -680,6 +681,7 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * LOGER: A Learned Optimizer towards Generating Efficient and Robust Query Execution Plans (VLDB 2023)
 * BitE : Accelerating Learned Query Optimization in a Mixed-Workload Environment (arXiv 2023)
 * Reinforcement Learning-based SPARQL Join Ordering Optimizer
+* Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries (SIGMOD 2023)
 * LEON: A New Framework for ML-Aided Query Optimization (VLDB 2023)
 * AutoSteer: Learned Query Optimization for Any SQL Database (VLDB 2023)
 * FASTgres: Making Learned Query Optimizer Hinting Effective (VLDB 2023)
@@ -688,7 +690,6 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * QPSeeker: An Efficient Neural Planner combining both data and queries through Variational Inference (EDBT 2024)
 * Robust Query Optimization in the Era of Machine Learning: State-of-the-Art and Future Directions (ICDE 2024)
 * FOSS: A Self-Learned Doctor for Query Optimizer (ICDE 2024)
-* Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries (PACMMOD 2023)
 * A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies (VLDB 2024)
 * Learned Optimizer for Online Approximate Query Processing in Data Exploration (TKDE 2024)
 * A learning-based framework for spatial join processing: estimation, optimization and tuning (VLDB 2024)
@@ -719,7 +720,6 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * Training-Free Query Optimization via LLM-Based Plan Similarity (arXiv 2025)
 * A Learned Cost Model-based Cross-engine Optimizer for SQL Workloads (arXiv 2025)
 * FOSS: A learned doctor for query optimization (VLDBJ)
-* TATA: An Efficient Framework for Task Transfer in Query Plan Representation (VLDB 2026)
 * LEON+: towards robust ML-aided query optimization (VLDB 2026)
 * LIO: A lightweight and interpretable query optimizer based on an evolutionary forest (VLDB 2026)
 * Practical Parameterized Query Optimization via Efficient Plan Reuse and List-wise Ranking (SIGMOD 2026)
@@ -731,7 +731,6 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * Elena: An Explainability-aided Online Query Optimization Framework (ICDE 2026)
 * Lequa: A Learning-Based Query-Aware Framework for Selective Query Optimization (ICDE 2026)
 * TemplateQO: Template-aware and Scalable Query Optimization with Data-efficient Learning (ICDE 2026)
-
 
 
 
