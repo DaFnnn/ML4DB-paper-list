@@ -14,8 +14,6 @@ Welcome to PR!
 There are so many papers emerging about [Text-To-SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL)! Sadly I'm not an expert with the topic and can not tell the quality of the papers.  
 Looking forward to contributions (PR, comment, discussion) about Text-To-SQL！🫶
 
-如果有同学需要稳定访问GitHub的方式，可以试试这个[链接](https://azabudai.org/auth/register?code=Z4oa)
-
 Table of Contents
 =================
 - [\[Paper List\] AI4DB / ML4DB / Autonomous Database / Self-driving Database / 智能数据库 / 自治数据库](#paper-list-ai4db--ml4db--autonomous-database--self-driving-database--智能数据库--自治数据库)
@@ -688,6 +686,7 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis (VLDB 2023)
 * QO-Insight: Inspecting Steered Query Optimizer (VLDB Demo 2023)
 * QPSeeker: An Efficient Neural Planner combining both data and queries through Variational Inference (EDBT 2024)
+* Robust Query Optimization in the Era of Machine Learning: State-of-the-Art and Future Directions (ICDE 2024)
 * FOSS: A Self-Learned Doctor for Query Optimizer (ICDE 2024)
 * Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries (PACMMOD 2023)
 * A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies (VLDB 2024)
@@ -704,21 +703,37 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * An Exploratory Case Study of Query Plan Representations (aiXiv 2024)
 * JAPO: learning join and pushdown order for cloud-native join optimization (Frontiers of Computer Science 2024)
 * Steering the PostgreSQL query optimizer using hinting: State-Of-The-Art and open challenges (35th GI-Workshop on Foundations of Databases)
-* PARQO: Penalty-Aware Robust Plan Selection in Query Optimization (arXiv 2024)
+* PARQO: Penalty-Aware Robust Plan Selection in Query Optimization (VLDB 2024)
 * HERO: Hint-Based Efficient and Reliable Query Optimizer (arXiv 2024)
-* Can Large Language Models Be Query Optimizer for Relational Databases? (arXiv 2025)
-* Learned Offline Query Planning via Bayesian Optimization (arXiv 2025)
+* Can Large Language Models Be Query Optimizer for Relational Databases? (SIGMOD 2025)
+* GenJoin: Conditional Generative Plan-to-Plan Query Optimizer that Learns from Subplan Hints (SIGMOD 2025)
+* Learned Offline Query Planning via Bayesian Optimization (SIGMOD 2025)
+* SEFRQO: A Self-Evolving Fine-Tuned RAG-Based Query Optimizer (SIGMOD 2025)
 * A Query Optimization Method Utilizing Large Language Models (arXiv 2025)
 * RankPQO: Learning-to-Rank for Parametric Query Optimization (VLDB 2025)
-* Low Rank Learning for Offline Query Optimization (arXiv 2025)
-* LIMAO: A Framework for Lifelong Modular Learned Query Optimization (arXiv 2025)
+* Low Rank Learning for Offline Query Optimization (SIGMOD 2025)
+* LIMAO: A Framework for Lifelong Modular Learned Query Optimization (VLDB 2025)
 * Athena: An Effective Learning-based Framework for Query Optimizer Performance Improvement (SIGMOD 2025)
+* Logical and Physical Optimizations for SQL Query Execution over Large Language Models (SIGMOD 2025)
 * Delta: A Learned Mixed Cost-based Query Optimization Framework (arXiv 2025)
 * Training-Free Query Optimization via LLM-Based Plan Similarity (arXiv 2025)
 * A Learned Cost Model-based Cross-engine Optimizer for SQL Workloads (arXiv 2025)
 * FOSS: A learned doctor for query optimization (VLDBJ)
 * TATA: An Efficient Framework for Task Transfer in Query Plan Representation (VLDB 2026)
 * LEON+: towards robust ML-aided query optimization (VLDB 2026)
+* LIO: A lightweight and interpretable query optimizer based on an evolutionary forest (VLDB 2026)
+* Practical Parameterized Query Optimization via Efficient Plan Reuse and List-wise Ranking (SIGMOD 2026)
+* BELISK: Efficient Offline Query Planning with Bayesian Optimization-Informed Language Model Reasoning (VLDB 2026)
+* Learned Query Optimizer in Alibaba MaxCompute: Challenges, Analysis, and Solutions (SIGMOD Companion 2026)
+* What Drives Learned Optimizer Performance? A Systematic Evaluation (EDBT 2026)
+* Divo: Learning a Stable and Effective Query Optimizer with a Diverse Workload (SIGMOD 2026)
+* LLM4Hint: Leveraging Large Language Models for Hint Recommendation in Offline Query Optimization (ICDE 2026)
+* Elena: An Explainability-aided Online Query Optimization Framework (ICDE 2026)
+* Lequa: A Learning-Based Query-Aware Framework for Selective Query Optimization (ICDE 2026)
+* TemplateQO: Template-aware and Scalable Query Optimization with Data-efficient Learning (ICDE 2026)
+
+
+
 
 ## Query Execution
 ### Sort
