@@ -558,6 +558,9 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * SPACE: Cardinality Estimation for Path Queries Using Cardinality-Aware Sequence-based Learning (SIGMOD 2025)
 * DBSel-CV: Residual-Learned Cardinality Estimation with Control-Variate Correction over SQLite (ICMML 2025)
 ### Cost Estimation
+QCFE: An Efficient Feature Engineering for Query Cost Estimation (ICDE 2024)
+DACE: A Database-Agnostic Cost Estimator (DACE 2024)
+Secure Query Processing with Linear Online Cost (ICDE 2026)
 #### Single Query
 * Statistical learning techniques for costing XML queries (VLDB 2005)
 * Predicting multiple metrics for queries: Better decisions enabled by machine learning （icde 2009)
@@ -582,13 +585,16 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * Precision Meets Resilience: Cross-Database Generalization with Uncertainty Quantification for Robust Cost Estimation (CIKM 2024)
 * DACE: A Database-Agnostic Cost Estimator (ICDE 2024)
 * QCFE: An Efficient Feature Engineering for Query Cost Estimation(ICDE 2024)
-* T3: Accurate and Fast Performance Prediction for Relational Database Systems With Compiled Decision Trees (arXiv 2025)
+* Rethinking Learned Cost Models Why Start from Scratch (SIGMOD 2024)
+* T3: Accurate and Fast Performance Prediction for Relational Database Systems With Compiled Decision Trees (SIGMOD 2025)
 * Evaluating Learned Query Performance Prediction Models at LinkedIn: Challenges, Opportunities, and Findings (arXiv 2025)
 * LEAP: A Low-cost Spark SQL Query Optimizer using Pairwise Comparison (VLDB 2025)
 * CONCERTO: Complex Query Execution Mechanism-Aware Learned Cost Estimation (arXiv 2025)
-* GRACEFUL: A Learned Cost Estimator For UDFs (arXiv 2025)
+* GRACEFUL: A Learned Cost Estimator For UDFs (ICDE 2025)
 * Cross-Database Query Cost Estimation: A Comparative Study of Classic ML, Transformers, and LLMs
 * Bootstrapping Learned Cost Models with Synthetic SQL Queries (arXiv 2025)
+* How Good are Learned Cost Models, Really? Insights from Query Optimization Tasks (SIGMOD 2025)
+* Reqo: A Comprehensive Learning-Based Cost Model for Robust and Explainable Query Optimization (SIGMOD 2026)
 
 #### Concurrent
 * PQR: Predicting query execution times for autonomous workload management （ICAC 2008）
