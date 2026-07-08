@@ -579,7 +579,6 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * gCBO: A Cost-based Optimizer for Graph Databases (CIKM 2022)
 * QueryFormer: A Tree Transformer Model for Query Plan Representation (VLDB 2022)
 * BASE: Bridging the Gap between Cost and Latency for Query Optimization (VLDB 2023)
-* Rethinking Learned Cost Models: Why Start from Scratch? (PACMMOD 2023)
 * Budget-aware Query Tuning: An AutoML Perspective (arXiv 2024)
 * OS Pre-trained Transformer: Predicting Query Latencies across Changing System Contexts [GitHub Link](https://github.com/parimarjan/LatencyPredictor)
 * Precision Meets Resilience: Cross-Database Generalization with Uncertainty Quantification for Robust Cost Estimation (CIKM 2024)
