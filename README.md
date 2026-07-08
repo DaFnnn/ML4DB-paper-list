@@ -558,9 +558,9 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * SPACE: Cardinality Estimation for Path Queries Using Cardinality-Aware Sequence-based Learning (SIGMOD 2025)
 * DBSel-CV: Residual-Learned Cardinality Estimation with Control-Variate Correction over SQLite (ICMML 2025)
 ### Cost Estimation
-QCFE: An Efficient Feature Engineering for Query Cost Estimation (ICDE 2024)
-DACE: A Database-Agnostic Cost Estimator (DACE 2024)
-Secure Query Processing with Linear Online Cost (ICDE 2026)
+* QCFE: An Efficient Feature Engineering for Query Cost Estimation (ICDE 2024)
+* DACE: A Database-Agnostic Cost Estimator (DACE 2024)
+* Secure Query Processing with Linear Online Cost (ICDE 2026)
 #### Single Query
 * Statistical learning techniques for costing XML queries (VLDB 2005)
 * Predicting multiple metrics for queries: Better decisions enabled by machine learning （icde 2009)
