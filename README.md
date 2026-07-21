@@ -611,20 +611,34 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * Lamba: A pretrained model for latency prediction over distributed databases (VLDB 2026)
 
 ### Join Optimization
-* Adaptive Optimization of Very Large Join Queries (SIGMOD 2018) (Not machine learning
+* * CDB: Optimizing Queries with Crowd-Based Selections and Joins (SIGMOD 2017)
+* * Runtime optimization of join location in parallel data management systems (VLDB 2017)\
+* * Solving the Join Ordering Problem via Mixed Integer Linear Programming (SIGMOD 2017)
+* * Adaptive Optimization of Very Large Join Queries (SIGMOD 2018) (Not machine learning
 * Deep Reinforcement Learning for Join Order Enumeration (aiDM@SIGMOD 2018)
-* Learning to Optimize Join Queries With Deep Reinforcement Learning (ArXiv)
+* * Join query optimization techniques for complex event processing applications (VLDB 2018)
 * Reinforcement Learning with Tree-LSTM for Join Order Selection (ICDE 2020)
-* Research Challenges in Deep Reinforcement Learning-based Join Query Optimization (aiDM 2020)
+* * Towards multi-way join aware optimizer in SAP HANA (VLDB 2020)
+* * Optimizing Multiple Multi-Way Stream Joins (ICDE 2021)
 * Efficient Join Order Selection Learning with Graph-based Representation (KDD 2022)
-* SOAR:A Learned Join Order Selector with Graph Attention Mechanism （IJCNN 2022）
-* Query Join Order Optimization Method Based on Dynamic Double Deep Q-Network (Electronics 2023)
+* * Efficient Massively Parallel Join Optimization for Large Queries (SIGMOD 2022)
 * Coral: federated query join order optimization based on deep reinforcement learning (WWW 2023)
-* JoinGym: An Efficient Query Optimization Environment for Reinforcement Learning (arXiv 2023)
 * Join Order Selection with Deep Reinforcement Learning: Fundamentals, Techniques, and Challenges (VLDB 2023)
+* * Efficiently Computing Join Orders with Heuristic Search (SIGMOD 2023)
+* * ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Join Algorithms via Reinforcement Learning (VLDB 2023)
+* * Detecting Logic Bugs of Join Optimizations in DBMS (SIGMOD 2023)
 * Sub-optimal Join Order Identification with L1-error (SIGMOD 2024)
+* * Optimizing Context-Enhanced Relational Joins (ICDE 2024)
+* DPconv: Super-Polynomially Faster Join Ordering (SIGMOD 2024)
+* * Sub-optimal Join Order Identification with L1-error (SIGMOD 2024)
+* * POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance (VLDB 2024)
 * TESSM: Tree-based Selective State Space Models for Efficient Join Order Selection Learning (CIKM 2024)
 * SOLAR: Scalable Distributed Spatial Joins through Learning-based Optimization (arXiv 2025)
+* * Optimizing Queries with Many-to-Many Joins (ICDE 2025)
+* * Hybrid Mixed Integer Linear Programming for Large-Scale Join Order Optimisation(VLDB 2025)
+* * AJOSC: Adaptive Join Order Selection for Continuous Queries (SIGMOD 2025)
+* * Debunking the Myth of Join Ordering: Toward Robust SQL Analytics (SIGMOD 2025)
+* * Towards Efficient Random-Order Enumeration for Join Queries (VLDB 2026)
 ### Parametric Query Optimization
   #### Foundational Theory
   * Dynamic Query Evaluation Plans (SIGMOD 1989)
