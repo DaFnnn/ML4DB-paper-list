@@ -639,6 +639,7 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * * AJOSC: Adaptive Join Order Selection for Continuous Queries (SIGMOD 2025)
 * * Debunking the Myth of Join Ordering: Toward Robust SQL Analytics (SIGMOD 2025)
 * * Towards Efficient Random-Order Enumeration for Join Queries (VLDB 2026)
+* LIGHT: A Learned Join Order Selection Network Using Dynamic Graph Attention Mechanism (DSE 2026)
 ### Parametric Query Optimization
   #### Foundational Theory
   * Dynamic Query Evaluation Plans (SIGMOD 1989)
