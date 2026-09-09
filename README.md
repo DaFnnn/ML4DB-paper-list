@@ -634,12 +634,15 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * * POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance (VLDB 2024)
 * TESSM: Tree-based Selective State Space Models for Efficient Join Order Selection Learning (CIKM 2024)
 * SOLAR: Scalable Distributed Spatial Joins through Learning-based Optimization (arXiv 2025)
+* * One Join Order Does Not Fit All: Reducing Intermediate Results with Per-Split Query Plans (arXiv 2025)
 * * Optimizing Queries with Many-to-Many Joins (ICDE 2025)
 * * Hybrid Mixed Integer Linear Programming for Large-Scale Join Order Optimisation(VLDB 2025)
 * * AJOSC: Adaptive Join Order Selection for Continuous Queries (SIGMOD 2025)
 * * Debunking the Myth of Join Ordering: Toward Robust SQL Analytics (SIGMOD 2025)
 * * Towards Efficient Random-Order Enumeration for Join Queries (VLDB 2026)
 * LIGHT: A Learned Join Order Selection Network Using Dynamic Graph Attention Mechanism (DSE 2026)
+* * A Set-Theoretic Approach to Detecting Logic Bugs in DBMS Inner Join Optimizations (arXiv 2026)
+  * Gradient-Based Join Ordering (arXiv 2026)
 ### Parametric Query Optimization
   #### Foundational Theory
   * Dynamic Query Evaluation Plans (SIGMOD 1989)
@@ -739,6 +742,7 @@ Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized
 * Delta: A Learned Mixed Cost-based Query Optimization Framework (arXiv 2025)
 * Training-Free Query Optimization via LLM-Based Plan Similarity (arXiv 2025)
 * A Learned Cost Model-based Cross-engine Optimizer for SQL Workloads (arXiv 2025)
+* RELOAD: A Robust and Efficient Learned Query Optimizer for Database Systems (arXiv 2026)
 * FOSS: A learned doctor for query optimization (VLDBJ)
 * LEON+: towards robust ML-aided query optimization (VLDB 2026)
 * LIO: A lightweight and interpretable query optimizer based on an evolutionary forest (VLDB 2026)
